@@ -1,4 +1,4 @@
-# medx"# MedXRepo" 
+# MedX
 
 ### The Problem it Solves
 
