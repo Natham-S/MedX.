@@ -12,7 +12,7 @@ MedX addresses several critical issues in the healthcare system, particularly in
 
 <div style="display: flex;">
     <img src="https://github.com/PixelarRio/MedX-HackPrix/assets/88759952/fc37f5ed-4176-4308-8853-3f5a7e27181e" alt="1" height="500">
-    <img src="https://github.com/PixelarRio/MedX-HackPrix/assets/88759952/dea75866-05e0-4408-8771-b02f18bbb76a" alt="2" height="500">
+    <img src="https://github.com/PixelarRio/MedX-HackPrix/assets/88759952/f1da922d-f2da-40d8-b56e-f0aef37ee014" alt="2" height="500">
     <img src="https://github.com/PixelarRio/MedX-HackPrix/assets/88759952/40691aa3-7101-4023-b2f8-e167595ed1cd" alt="3" height="500">
     <img src="https://github.com/PixelarRio/MedX-HackPrix/assets/88759952/4e84d443-e533-4414-a1ff-76eb3783e19e" alt="4" height="500">
     <img src="https://github.com/PixelarRio/MedX-HackPrix/assets/88759952/ef57d749-7414-42ea-a923-021f333b8487" alt="5" height="500">
